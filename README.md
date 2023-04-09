@@ -1,8 +1,29 @@
 # ORM-Ecommerce-back-end
-
+ <img src="https://img.shields.io/badge/Javascript-yellow" />
+    <img src="https://img.shields.io/badge/express-orange" />
+    <img src="https://img.shields.io/badge/Sequelize-blue"  />
+    <img src="https://img.shields.io/badge/mySQL-blue"  />
+    
 ## Description
 
+This is a back-end application for an E-commerce website built using Object Relational Mapping (ORM) technique. The application uses Express.js for the server, Sequelize as the ORM, and MySQL for the database.
+
+## Installation
+
+1. Clone the repository to your local machine.
+
+2. Navigate to the project directory using your terminal.
+
+3. Run `npm install` to install all the dependencies.
+
+4. Create a `.env` file in the root directory and provide the necessary database information.
+
+5. Run `npm run seed` to seed the database.
+
+6. Run `npm start` to start the server.
+
 ## Usage
+
 
 ## License
 
