@@ -1,12 +1,9 @@
 # ORM-Ecommerce-back-end
- <img src="https://img.shields.io/badge/Javascript-yellow" />
-    <img src="https://img.shields.io/badge/express-orange" />
-    <img src="https://img.shields.io/badge/Sequelize-blue"  />
-    <img src="https://img.shields.io/badge/mySQL-blue"  />
-    
+ <img src="https://img.shields.io/badge/Javascript-yellow" /> <img src="https://img.shields.io/badge/express-orange" /> <img src="https://img.shields.io/badge/Sequelize-blue"  /> <img src="https://img.shields.io/badge/mySQL-blue"  />
+
 ## Description
 
-This is a back-end application for an E-commerce website built using Object Relational Mapping (ORM) technique. The application uses Express.js for the server, Sequelize as the ORM, and MySQL for the database.
+This is a back-end application for an E-commerce website built using Object Relational Mapping (ORM) technique. The application is designed to be used with a front-end e-commerce application, and provides APIs to manage products, categories, and tags. The application uses Express.js for the server, Sequelize as the ORM, and MySQL for the database.
 
 ## Installation
 
@@ -23,7 +20,10 @@ This is a back-end application for an E-commerce website built using Object Rela
 6. Run `npm start` to start the server.
 
 ## Usage
+A walkthrough video demonstrating the usage of the various category, product, and tag routes can be viewed [here](https://youtu.be/8Ot_IWoBpQc)
 
+Below youll find a screenshot of the route structure in insomnia:
+![alt text](assets/Insomnia%204_9_2023%203_26_10%20PM.png)
 
 ## License
 
